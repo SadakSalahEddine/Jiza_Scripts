@@ -9,7 +9,7 @@
     </head>
   <body>
    <div class="demo">
-          <figure class="imghvr-push-up"><img src="example-image.jpg" alt="example-image">
+          <figure class="imghvr-push-up"><img src="image/example-image.jpg" alt="example-image">
             <figcaption>
               <h3>Hello World</h3>
               <p>Life is too important to be taken seriously!</p>
@@ -18,13 +18,13 @@
           <textarea onclick="this.focus();this.select()" readonly="readonly">imghvr-push-up</textarea>
         </div>
       <div class="demo">
-          <figure class="imghvr-fade"><img src="example-image.jpg" alt="example-image">
+          <figure class="imghvr-fade"><img src="image/example-image.jpg" alt="example-image">
             <figcaption>
               <h3>Hello World</h3>
               <p>Life is too important to be taken seriously!</p>
             </figcaption><a href="javascript:;"></a>
           </figure>
-          <textarea onclick="this.focus();this.select()" readonly="readonly">imghvr-fade</textarea>
+          <textarea onclick="this.focus();this.select()"  readonly="readonly">imghvr-fade</textarea>
         </div>
   </body>
 </html>
